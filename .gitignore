@@ -1,0 +1,26 @@
+models
+models/
+datasets
+datasets/
+feats
+feats/
+feats_bak/
+results/
+visuals/
+coco-caption/
+logs/
+logs*/
+*.gv
+*.pyc
+*.npy
+*.pth
+
+# LaTeX
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
